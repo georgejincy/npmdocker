@@ -1,0 +1,22 @@
+{
+  "name": "npmdocker",
+  "version": "1.0.0",
+  "description": "npm helloworld docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgejincy/npmdocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgejincy/npmdocker/issues"
+  },
+  "homepage": "https://github.com/georgejincy/npmdocker#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
